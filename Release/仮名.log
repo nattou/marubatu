@@ -1,0 +1,23 @@
+﻿2013/01/18 14:48:30 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\n1220048.STCN\Documents\Visual Studio 2010\Projects\型紙\仮名.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Release\○×ゲーム.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\n1220048.STCN\Desktop\あんそろじー\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DrawPixel.cpp
+         DrawPixel.cpp
+     1>DrawPixel.cpp(22): warning C4101: 'siro' : ローカル変数は 1 度も使われていません。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\n1220048.STCN\Documents\Visual Studio 2010\Projects\型紙\Release\○×ゲーム.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\n1220048.STCN\Desktop\あんそろじー\DxLib_VC\プロジェクトに追加すべきファイル_VC用" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\○×ゲーム.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\n1220048.STCN\Documents\Visual Studio 2010\Projects\型紙\Release\○×ゲーム.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\n1220048.STCN\Documents\Visual Studio 2010\Projects\型紙\Release\○×ゲーム.lib" /MACHINE:X86 Release\DrawPixel.obj
+         コード生成しています。
+         コード生成が終了しました。
+         仮名.vcxproj -> C:\Users\n1220048.STCN\Documents\Visual Studio 2010\Projects\型紙\Release\○×ゲーム.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\n1220048.STCN\Documents\Visual Studio 2010\Projects\型紙\Release\○×ゲーム.exe;#1" /manifest "Release\○×ゲーム.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         ファイル "Release\○×ゲーム.unsuccessfulbuild" を削除しています。
+         "Release\○×ゲーム.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\n1220048.STCN\Documents\Visual Studio 2010\Projects\型紙\仮名.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.48

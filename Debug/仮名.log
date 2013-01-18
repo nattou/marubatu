@@ -1,0 +1,49 @@
+﻿2012/07/14 15:00:24 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\n1220048.STCN\documents\visual studio 2010\Projects\仮名\仮名.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "Debug\仮名.unsuccessfulbuild" のタッチ タスクを実行しています。
+       ClCompile:
+         すべての出力が最新のものです。
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\n1220048.STCN\documents\visual studio 2010\Projects\仮名\Debug\仮名.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\n1220048.STCN\Desktop\あんそろじー\DxLib_VC\プロジェクトに追加すべきファイル_VC用" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\仮名.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\n1220048.STCN\documents\visual studio 2010\Projects\仮名\Debug\仮名.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\n1220048.STCN\documents\visual studio 2010\Projects\仮名\Debug\仮名.lib" /MACHINE:X86 "Debug\仮名.exe.embed.manifest.res"
+         Debug\DrawPixel.obj
+     1>LIBCMTD.lib(dbgheap.obj) : error LNK2005: __CrtSetCheckCount は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(crt0dat.obj) : error LNK2005: _exit は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(crt0dat.obj) : error LNK2005: __exit は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(crt0dat.obj) : error LNK2005: __cexit は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(crt0dat.obj) : error LNK2005: __amsg_exit は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(crt0dat.obj) : error LNK2005: __initterm_e は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(fflush.obj) : error LNK2005: _fflush は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(dbghook.obj) : error LNK2005: __crt_debugger_hook は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(invarg.obj) : error LNK2005: __invoke_watson は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(sprintf.obj) : error LNK2005: _sprintf は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(crt0init.obj) : error LNK2005: ___xi_a は既に MSVCRTD.lib(cinitexe.obj) で定義されています。
+     1>LIBCMTD.lib(crt0init.obj) : error LNK2005: ___xi_z は既に MSVCRTD.lib(cinitexe.obj) で定義されています。
+     1>LIBCMTD.lib(crt0init.obj) : error LNK2005: ___xc_a は既に MSVCRTD.lib(cinitexe.obj) で定義されています。
+     1>LIBCMTD.lib(crt0init.obj) : error LNK2005: ___xc_z は既に MSVCRTD.lib(cinitexe.obj) で定義されています。
+     1>LIBCMTD.lib(hooks.obj) : error LNK2005: "void __cdecl terminate(void)" (?terminate@@YAXXZ) は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(dosmap.obj) : error LNK2005: __errno は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(_trnsctrl_.obj) : error LNK2005: ___CxxFrameHandler は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(mlock.obj) : error LNK2005: __lock は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(mlock.obj) : error LNK2005: __unlock は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(winxfltr.obj) : error LNK2005: __XcptFilter は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(vsprintf.obj) : error LNK2005: _vsprintf は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(setlocal.obj) : error LNK2005: __configthreadlocale は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(errmode.obj) : error LNK2005: ___set_app_type は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(dbgrptw.obj) : error LNK2005: __CrtDbgReportW は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(printf.obj) : error LNK2005: _printf は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(vswprint.obj) : error LNK2005: __vswprintf は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(typinfo.obj) : error LNK2005: "public: void __thiscall type_info::_type_info_dtor_internal_method(void)" (?_type_info_dtor_internal_method@type_info@@QAEXXZ) は既に MSVCRTD.lib(MSVCR100D.dll) で定義されています。
+     1>LIBCMTD.lib(typinfo.obj) : error LNK2005: "private: __thiscall type_info::type_info(class type_info const &)" (??0type_info@@AAE@ABV0@@Z) は既に MSVCRTD.lib(ti_inst.obj) で定義されています。
+     1>LIBCMTD.lib(typinfo.obj) : error LNK2005: "private: class type_info & __thiscall type_info::operator=(class type_info const &)" (??4type_info@@AAEAAV0@ABV0@@Z) は既に MSVCRTD.lib(ti_inst.obj) で定義されています。
+     1>LINK : warning LNK4098: defaultlib 'MSVCRTD' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+     1>LINK : warning LNK4098: defaultlib 'LIBCMTD' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+     1>LIBCMTD.lib(crt0.obj) : error LNK2019: 未解決の外部シンボル _main が関数 ___tmainCRTStartup で参照されました。
+     1>C:\Users\n1220048.STCN\documents\visual studio 2010\Projects\仮名\Debug\仮名.exe : fatal error LNK1120: 外部参照 1 が未解決です。
+     1>プロジェクト "C:\Users\n1220048.STCN\documents\visual studio 2010\Projects\仮名\仮名.vcxproj" (build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:00.32
